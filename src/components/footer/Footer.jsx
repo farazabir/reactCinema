@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="footer" style={{backgroundImage: `url(${bg})`}}>
             <div className="footer__content container">
                 <div className="footer__content__logo">
-             
+                  <div className="logo"> 
                     </div>
                 </div>
                 <div className="footer__content__menus">
